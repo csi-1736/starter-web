@@ -10,6 +10,7 @@ grazie ai miei stidenti
 aggiunto......
 
 # TECHNOLOGY COLOPHON
+cambio qui e li
 
     HTML5, CSS3
     jQuery, Modernizr
