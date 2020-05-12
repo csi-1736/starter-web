@@ -13,3 +13,6 @@ Sample website with plenty of files for demos
 aggiunto depoy intro
 ## How To Contribute
 Aggiunto qualcosa al contributo
+
+### Copyright
+aggiunto copyright
